@@ -1,0 +1,9 @@
+{
+    "name": "hxteamcity",
+    "description": "Helpers for TeamCity integration",
+    "version": "0.1.0",
+    "license": "MIT",
+    "releasenote": "Initial release",
+    "contributors": ["nadako"],
+    "classPath": "src"
+}
